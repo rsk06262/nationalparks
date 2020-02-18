@@ -5,7 +5,7 @@ pipeline {
   stages {
     stage('Build JAR') {
       steps {
-        git url: 'http://gogs-undefined.//nationalparks'
+        git url: 'https://github.com/bhandaru/nationalparks'
         sh "cp .settings.xml ~/.m2/settings.xml"
         sh "mvn package"
       }
