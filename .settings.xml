@@ -15,7 +15,7 @@
         <mirror>
             <id>nexus</id>
             <mirrorOf>*</mirrorOf>
-            <url>https://maven.repository.redhat.com/ga</url>
+            <url>https://oss.sonatype.org/content/repositories/releases/</url>
         </mirror>
     </mirrors>
     <profiles>
