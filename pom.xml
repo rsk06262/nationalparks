@@ -27,7 +27,7 @@
       <repository>
           <id>nexus</id>
           <name>Releases</name>
-          <url>${NEXUS_URL}/repository/releases</url>
+          <url>https://maven.repository.redhat.com/ga/</url>
       </repository>
       <snapshotRepository>
           <id>nexus</id>
