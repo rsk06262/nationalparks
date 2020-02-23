@@ -15,7 +15,7 @@
         <mirror>
             <id>nexus</id>
             <mirrorOf>*</mirrorOf>
-            <url>${NEXUS_URL}/repositories/releases</url>
+            <url>${NEXUS_URL}/nexus/content/repositories/releases</url>
         </mirror>
     </mirrors>
     <profiles>
