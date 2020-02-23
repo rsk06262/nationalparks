@@ -32,7 +32,7 @@
       <snapshotRepository>
           <id>nexus</id>
           <name>Snapshots</name>
-          <url>${NEXUS_URL}/repository/maven-snapshots</url>
+          <url>${NEXUS_URL}/repository/snapshots</url>
       </snapshotRepository>
     </distributionManagement>
 
