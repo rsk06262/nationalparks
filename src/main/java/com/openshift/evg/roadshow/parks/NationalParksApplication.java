@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * Main application launcher
+ * Added for dummy build up
  *
  * Created by jmorales on 24/08/16.
  */
